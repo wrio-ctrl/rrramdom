@@ -20,8 +20,8 @@ DOMAIN-KEYWORD,lyrebirdemby
 #CHARON
 DOMAIN-KEYWORD,charontv
 #Peach
-IP-CIDR,168.138.45.100/24
-IP-CIDR,208.87.242.13/32
+IP-CIDR,168.138.45.100/24,no-resolve
+IP-CIDR,208.87.242.13/32,no-resolve
 #NANFLIX*
 DOMAIN-SUFFIX,nanflix.net
 #见手青*
@@ -30,8 +30,6 @@ DOMAIN-SUFFIX,mooguu.top
 DOMAIN-KEYWORD,lilyya
 #Yomo
 DOMAIN-SUFFIX,yomo.lol
-#Watermelon
-DOMAIN-SUFFIX,1024.name
 #AlphaTV*
 DOMAIN-KEYWORD,alphatv
 #非越
