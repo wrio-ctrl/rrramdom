@@ -2,7 +2,7 @@
 DOMAIN-KEYWORD,coemn.com
 DOMAIN-SUFFIX,carryz.net
 #Peach
-IP-CIDR,193.123.232.141/24
+IP-CIDR,193.123.232.141/24,no-resolve
 #飞跃彩虹
 DOMAIN-SUFFIX,581658.best
 #STARCAT
@@ -12,11 +12,11 @@ DOMAIN-SUFFIX,catlinks.co.uk
 #TERMINUS
 DOMAIN-SUFFIX,emby.wtf
 #jsq
-IP-CIDR,152.53.38.126/24
+IP-CIDR,152.53.38.126/24,no-resolve
 #Marmot
 DOMAIN-KEYWORD,20120714
 #Alpha
-IP-CIDR,69.10.32.214/24
+IP-CIDR,69.10.32.214/24,no-resolve
 #mooncake
 DOMAIN-SUFFIX,emby.my
 #世界线
