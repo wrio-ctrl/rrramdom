@@ -1,7 +1,7 @@
-# > 拼多多
-hostname = api.pinduoduo.com, api.yangkeduo.com, mobile.yangkeduo.com
-^https?:\/\/api\.(pinduoduo|yangkeduo)\.com\/api\/cappuccino\/splash url reject
-^https?:\/\/api\.pinduoduo\.com\/api\/aquarius\/hungary\/global\/homepage\? url reject-dict
+# > 彩云天气
+hostname = wrapper.cyapi.cn, api.caiyunapp.com
+^https?:\/\/wrapper\.cyapi\.cn\/v1\/activity\? url echo-response application/json echo-response https://raw.githubusercontent.com/Keywos/rule/main/mocks/caiyun.json
+^https?:\/\/api\.caiyunapp\.com\/v1\/activity url reject-dict
 
 # > 京东
 hostname = api.m.jd.com, dns.jd.com
