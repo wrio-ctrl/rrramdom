@@ -16,7 +16,7 @@ IP-CIDR,152.53.38.126/24,no-resolve
 #Marmot
 DOMAIN-KEYWORD,20120714
 #Alpha
-IP-CIDR,69.10.32.214/24,no-resolve
+IP-CIDR,104.243.41.35/32,no-resolve
 #mooncake
 DOMAIN-SUFFIX,emby.my
 #世界线
