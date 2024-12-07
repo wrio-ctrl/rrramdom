@@ -20,6 +20,7 @@ DOMAIN-KEYWORD,lyrebirdemby
 #CHARON
 DOMAIN-KEYWORD,charontv
 #Peach
+DOMAIN-SUFFIX,embymv.link
 IP-CIDR,168.138.45.100/24,no-resolve
 IP-CIDR,208.87.242.13/32,no-resolve
 #NANFLIX*
