@@ -2,7 +2,7 @@
 DOMAIN-KEYWORD,coemn.com
 DOMAIN-SUFFIX,carryz.net
 #飞跃彩虹
-DOMAIN-SUFFIX,581658.best
+IP-CIDR,193.122.114.13/32,no-resolve
 #STARCAT
 DOMAIN-SUFFIX,catlinks.co.uk
 DOMAIN-SUFFIX,puddingcat.de
