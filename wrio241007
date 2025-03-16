@@ -56,3 +56,5 @@ DOMAIN-SUFFIX,beebi.org
 DOMAIN-SUFFIX,xmsl.org
 #飞跃彩虹
 IP-CIDR,193.122.114.13/32,no-resolve
+#
+DOMAIN-KEYWORD,younoyes
